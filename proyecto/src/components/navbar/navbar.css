@@ -1,0 +1,17 @@
+.css-1t29gy6-MuiToolbar-root {
+
+    width: 100%;
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 2px 8px rgba(0,0,0,.6);
+    background-color: rgba(#845EC2);
+    position: fixed;
+    box-sizing: border-box;
+    justify-content: space-between; 
+}
+.buttonCarrito{
+    background-color: rgb(#b89dd8);
+    font-size: 20px;
+    border-radius: 15px;
+    text-decoration: none;
+    
+}
