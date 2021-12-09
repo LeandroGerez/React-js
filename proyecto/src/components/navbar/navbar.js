@@ -17,7 +17,7 @@ export default function Navbar() {
             
             
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Howl
+              Howl!
             </Typography>
             <CartWidget/>
             <button className="buttonCarrito">1</button>
