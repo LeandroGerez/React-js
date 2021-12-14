@@ -1,16 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/navbar/navbar';
+import Contador from './components/navbar/Contador/Contador'
 
-
+ 
 
 
 
 
 function App() {
-  return (
+    return (
     <div className="App" >
       <Navbar/>
+      <Contador/>
+
       
      
     </div>
